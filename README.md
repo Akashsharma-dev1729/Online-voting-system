@@ -1,1 +1,1 @@
-# Online-voting-system
+ Developed a comprehensive online voting system utilizing PHP for server-side scripting, JavaScript for client-side interactions, HTML for structuring web pages, and MySQL for database management. The system efficiently manages candidate credentials, voter registrations, and voting processes, ensuring secure and reliable elections. Features include user authentication, candidate management, real-time vote tallying, and administrative controls. This project demonstrates expertise in full-stack web development and database management systems (DBMS).
